@@ -41,3 +41,5 @@ The different methods and result for solving our classification problem are divi
 - `run_softmax_entropy.ipynb`: notebook with the softmax entropy method, using neural network with 1 hidden layer;
 - `run_angle_analysis.ipynb` : notebook for angle analysis;
 -  `run_NN_error_impact.ipynb`: notebook for  evaluating the impact of error on the NN accuracy.
+
+Our report is also at disposition in the repository (we were restricted to 4 pages, without counting acknoledgement and the ethic parts).
